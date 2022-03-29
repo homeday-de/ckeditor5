@@ -1,3 +1,5 @@
+> **ATTENTION**: This npm package is a custom build that enables the alignment plugin and includes some minor changes. To use the main version use [CKEditor5](https://www.npmjs.com/package/ckeditor5)
+
 CKEditor 5 classic editor build
 ========================================
 
